@@ -11,3 +11,4 @@ match case in python 3.10 /ساختار کنترلی در پایتون 3.10 | [v
 Solve the troublesome cactus question on the Quera website / حل سوال کاکتوس پر دردسر سایت کوئرا| [video](https://youtu.be/sgHbaUMJxKc) | [project](https://github.com/sh-youtube/troublesome-cactus) 
 Pythagorean theorem / مینی پروژه هایی برای تفریح - فیثاغورس با یک فنجان جاوا| [Video](https://youtu.be/A9HJh3-Rd00) | [project](https://github.com/sh-youtube/Pythagorean-theorem)
 Git course / دوره آموزشی گیت| [playlist](https://www.youtube.com/playlist?list=PLNjdjZpVESU47wGkPh2U-UoWc9382dNG2) | [project](https://github.com/sh-youtube/Git-course)
+Markdown course / مینی دوره آموزش مارک داون| [playlist](https://www.youtube.com/playlist?list=PLNjdjZpVESU7T8GLHG3qBtsGcRvvsXEL8) | [project](https://github.com/sh-youtube/Markdown-Tutorial)
